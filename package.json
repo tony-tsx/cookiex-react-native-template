@@ -1,0 +1,9 @@
+{
+  "name": "@cookiex-react/native-template",
+  "version": "0.1.0",
+  "description": "Cookiex Origin React Native Template",
+  "main": "cookie.config.js",
+  "repository": "https://github.com/tony-tsx/cookiex-react-native-template.git",
+  "author": "tony-tsx <tony.js@zoho.eu>",
+  "license": "MIT"
+}
